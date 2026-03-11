@@ -1,0 +1,95 @@
+
+Nov 04, 2023 11:07:03.24 NEW SESSION
+Nov 04, 2023 11:07:03.25 [18828:19536:1104/110703.239:ERROR:device_event_log_impl.cc(192)] [11:07:03.239] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Nov 10, 2023 20:56:28.19 NEW SESSION
+Nov 10, 2023 20:56:28.20 [7424:17468:1110/205628.191:ERROR:device_event_log_impl.cc(192)] [20:56:28.191] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 10, 2023 21:05:15.92 [17524:21796:1110/210515.919:ERROR:device_event_log_impl.cc(192)] [21:05:15.919] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Nov 10, 2023 21:59:20.71 NEW SESSION
+Nov 10, 2023 21:59:20.73 [15272:5988:1110/215920.713:ERROR:device_event_log_impl.cc(192)] [21:59:20.713] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Nov 11, 2023 18:34:28.11 NEW SESSION
+Nov 11, 2023 18:34:28.12 [24920:11488:1111/183428.116:ERROR:device_event_log_impl.cc(192)] [18:34:28.116] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2023 20:18:29.73 [2492:24708:1111/201829.730:ERROR:device_event_log_impl.cc(192)] [20:18:29.730] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2023 20:18:29.76 [2492:22512:1111/201829.761:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2023 20:18:55.11 [2492:22512:1111/201855.115:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2023 20:19:37.22 [2492:22512:1111/201937.220:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2023 20:21:28.02 [2492:22512:1111/202128.028:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2023 20:23:44.90 [19552:14372:1111/202344.904:ERROR:device_event_log_impl.cc(192)] [20:23:44.904] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2023 20:23:44.94 [19552:17712:1111/202344.943:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2023 20:31:59.38 [20296:15944:1111/203159.387:ERROR:device_event_log_impl.cc(192)] [20:31:59.387] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2023 20:31:59.41 [20296:14072:1111/203159.417:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Nov 11, 2023 21:45:28.49 NEW SESSION
+Nov 11, 2023 21:45:28.50 [7208:14784:1111/214528.489:ERROR:device_event_log_impl.cc(192)] [21:45:28.489] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Nov 16, 2023 15:18:06.38 NEW SESSION
+Nov 16, 2023 15:18:06.39 [5288:25588:1116/151806.379:ERROR:device_event_log_impl.cc(192)] [15:18:06.378] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 16, 2023 15:19:44.37 [5288:25548:1116/151944.378:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 16, 2023 15:24:22.29 [5288:25548:1116/152422.296:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Nov 20, 2023 13:42:25.03 NEW SESSION
+Nov 20, 2023 13:42:25.05 [11196:24304:1120/134225.037:ERROR:device_event_log_impl.cc(192)] [13:42:25.037] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Nov 20, 2023 18:43:41.34 NEW SESSION
+Nov 20, 2023 18:43:41.36 [3972:25876:1120/184341.341:ERROR:device_event_log_impl.cc(192)] [18:43:41.341] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Apr 10, 2024 11:02:13.24 NEW SESSION
+Apr 10, 2024 11:02:13.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jan 01, 2025 15:40:33.46 NEW SESSION
+Jan 01, 2025 15:40:33.49 [12172:19024:0101/154033.467:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+
+Mar 12, 2025 20:14:45.54 NEW SESSION
+Mar 12, 2025 20:14:45.57 [7808:13872:0312/201445.544:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 12, 2025 20:14:45.58 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2025 20:14:45.58 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 12, 2025 20:15:10.94 [7808:13872:0312/201510.941:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 14, 2025 17:56:22.40 NEW SESSION
+Mar 14, 2025 17:56:22.41 [12360:5116:0314/175622.397:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 14, 2025 17:56:22.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 14, 2025 17:56:22.55 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 14, 2025 17:56:46.33 [12360:5116:0314/175646.330:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 14, 2025 17:57:33.12 [12360:5116:0314/175733.124:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 14, 2025 17:59:23.99 [12360:5116:0314/175923.991:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 14, 2025 18:03:21.50 [12360:5116:0314/180321.500:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 08, 2025 20:46:14.81 NEW SESSION
+Apr 08, 2025 20:46:14.81 [9176:25988:0408/204614.810:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 08, 2025 20:46:14.81 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 08, 2025 20:46:14.81 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 08, 2025 20:46:28.66 Client requested cancel during Invoke()
+Apr 08, 2025 20:46:41.61 [9176:25988:0408/204641.614:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 08, 2025 20:47:37.04 [9176:25988:0408/204737.039:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 08, 2025 20:49:14.25 [9176:25988:0408/204914.253:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 08, 2025 20:52:30.59 [9176:25988:0408/205230.598:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 08, 2025 20:58:05.21 [9176:25988:0408/205805.217:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 08, 2025 21:49:16.71 [9176:25988:0408/214916.709:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2025 21:49:17.11 [9176:25988:0408/214917.111:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 08, 2025 22:41:27.95 [9176:25988:0408/224127.956:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 08, 2025 23:23:55.08 [9176:20380:0408/232355.086:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 08, 2025 23:24:02.69 [9176:25988:0408/232402.691:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 08, 2025 23:24:04.05 [9176:19564:0408/232404.057:ERROR:device_event_log_impl.cc(202)] [23:24:04.055] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 10, 2025 24:23:26.74 NEW SESSION
+Apr 10, 2025 24:23:26.74 [21080:14740:0410/002326.738:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 24:23:26.75 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 10, 2025 24:23:26.75 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Apr 10, 2025 24:23:53.99 [21080:14740:0410/002353.992:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 24:24:44.95 [21080:14740:0410/002444.953:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 24:26:28.14 [21080:14740:0410/002628.147:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 24:29:16.50 [21080:14740:0410/002916.500:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 24:31:27.71 [21080:18936:0410/003127.715:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 10, 2025 24:31:30.95 [21080:18936:0410/003130.953:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 10, 2025 24:35:50.79 [21080:14740:0410/003550.786:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Apr 10, 2025 24:37:05.44 [21080:18936:0410/003705.441:ERROR:device_event_log_impl.cc(202)] [00:37:05.442] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2025 01:02:03.97 [21080:14740:0410/010203.974:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Jan 06, 2026 23:50:41.76 NEW SESSION
+Jan 06, 2026 23:50:41.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 06, 2026 23:50:47.13 [28556:32792:0106/235047.130:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 11, 2026 22:52:19.63 NEW SESSION
+Mar 11, 2026 22:52:19.70 Created TensorFlow Lite XNNPACK delegate for CPU.

@@ -1,0 +1,4 @@
+127.0.0.1 - - [04/Nov/2023:11:07:00 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Nov/2023:11:07:01 +0530] "GET /servlet_task2/from.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Nov/2023:11:07:01 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Nov/2023:11:07:30 +0530] "GET /servlet_task2/form?name=Pratik+Raskar&email=jjjj4%40com&address=45%2C+ghansoli%2C+Navi+Mumbai%2C400701&phone=07507495364 HTTP/1.1" 200 100

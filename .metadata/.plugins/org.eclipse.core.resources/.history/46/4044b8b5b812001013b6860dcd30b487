@@ -1,0 +1,11 @@
+package crudopration;
+
+public class Fetch {
+	public static void main(String[] args) {
+		String url="jdbc:postgresql://loacalhost:5432/company";
+		String user="postgres";
+		String pass="root";
+		String driver="org.postgresql."
+	}
+
+}

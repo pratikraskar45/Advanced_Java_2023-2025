@@ -1,0 +1,3 @@
+15000	"Pratik"
+30000	"Vishal"
+150000	"Jeevan"

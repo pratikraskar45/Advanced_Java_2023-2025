@@ -1,0 +1,12 @@
+127.0.0.1 - - [16/Nov/2023:15:17:42 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [16/Nov/2023:15:18:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:15:18:05 +0530] "GET /student_managment_system/signup.jsp HTTP/1.1" 200 522
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:15:18:05 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:15:19:29 +0530] "POST /student_managment_system/signup HTTP/1.1" 200 409
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:15:20:02 +0530] "POST /student_managment_system/login HTTP/1.1" 500 1373
+127.0.0.1 - - [16/Nov/2023:15:26:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:15:26:18 +0530] "GET /student_managment_system/login.jsp HTTP/1.1" 200 376
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:15:26:42 +0530] "POST /student_managment_system/login HTTP/1.1" 500 1373
+127.0.0.1 - - [16/Nov/2023:15:28:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:15:29:00 +0530] "GET /student_managment_system/login.jsp HTTP/1.1" 200 376
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:15:29:12 +0530] "POST /student_managment_system/login HTTP/1.1" 500 1373
